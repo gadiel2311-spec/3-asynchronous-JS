@@ -1,0 +1,23 @@
+{
+  "name": "3-asynchronous-js",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gadiel2311-spec/3-asynchronous-JS#readme",
+  "bugs": {
+    "url": "https://github.com/gadiel2311-spec/3-asynchronous-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadiel2311-spec/3-asynchronous-JS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "superagent": "^10.3.0"
+  }
+}
